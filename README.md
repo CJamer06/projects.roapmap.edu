@@ -26,3 +26,5 @@ You can edit the `index.html` file to add your personal information, work experi
 ## License
 
 This project is free to use. You can modify and distribute it as you wish.
+
+*Roadmap: https://roadmap.sh/projects/single-page-cv*
