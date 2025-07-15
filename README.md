@@ -1,30 +1,57 @@
+# Proyectos de Portafolio Web
 
-# Single CV
+Este repositorio contiene dos proyectos básicos de desarrollo web:
 
-This project is a simple web page to display a digital curriculum vitae (CV). It includes the following main files:
+## 1. Single CV
 
-- `index.html`: The main CV page.
-- `favicon.ico`: The website icon.
+Una página web sencilla para mostrar un currículum vitae digital.
 
-## How to Use
+- **Archivo principal:** [`01_single_cv/index.html`](01_single_cv/index.html)
+- **Favicon:** [`favicon/favicon.ico`](favicon/favicon.ico)
 
-1. Open the `index.html` file in your web browser to view the CV.
-2. Customize the content of `index.html` as needed.
+### Previsualización
 
-## Project Structure
+![Previsualización Single CV](https://raw.githubusercontent.com/CJamer06/projects.roapmap.edu/main/01_single_cv/preview.png)
+
+> Abre el archivo [`01_single_cv/index.html`](01_single_cv/index.html) en tu navegador para ver el CV.
+
+---
+
+## 2. Basic Website
+
+Un sitio web básico en HTML que muestra información de perfil, proyectos, experiencia y educación.
+
+- **Archivo principal:** [`02_basic_website/index.html`](02_basic_website/index.html)
+- **Imagen de perfil:** [`02_basic_website/img1.png`](02_basic_website/img1.png)
+- **Favicon:** [`favicon/favicon.ico`](favicon/favicon.ico)
+
+### Previsualización
+
+![Previsualización Basic Website](https://raw.githubusercontent.com/CJamer06/projects.roapmap.edu/main/02_basic_website/preview.png)
+
+> Abre el archivo [`02_basic_website/index.html`](02_basic_website/index.html) en tu navegador para ver el sitio.
+
+---
+
+## Estructura del Proyecto
 
 ```
-favicon.ico
-index.html
+01_single_cv/
+    index.html
+02_basic_website/
+    img1.png
+    index.html
+favicon/
+    favicon.ico
 README.md
 ```
 
-## Customization
+## Personalización
 
-You can edit the `index.html` file to add your personal information, work experience, education, skills, and any other relevant details.
+Puedes editar los archivos `index.html` de cada proyecto para agregar tu información personal, experiencia laboral, educación, habilidades y cualquier otro detalle relevante.
 
-## License
+## Licencia
 
-This project is free to use. You can modify and distribute it as you wish.
+Este proyecto es libre de uso. Puedes modificarlo y distribuirlo como desees.
 
 *Roadmap: https://roadmap.sh/projects/single-page-cv*
